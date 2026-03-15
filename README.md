@@ -95,6 +95,9 @@ The current test coverage includes:
 - unknown option rejection
 - zero divisor rejection
 - help/version misuse with positional arguments
+- missing values after `-a`, `-A`, `-b`, and `-B`
+- malformed numeric input for divisors and positional arguments
+- `LONG_MAX` single-value range handling
 
 ## Source Layout
 
